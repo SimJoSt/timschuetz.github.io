@@ -14,6 +14,6 @@ I am a fellow of the German National Academic Foundation (SDV) and the German-Am
 
 ##### Contact
 
-[tschuetz@uci.edu](mailto:tschuetz@uci.edu)
+[tschuetz@uci.edu](https://mailto:tschuetz@uci.edu)
 
 [Academia.edu](https://uci.academia.edu/TimSch%C3%BCtz)
