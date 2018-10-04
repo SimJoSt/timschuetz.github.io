@@ -18,10 +18,9 @@ menu_settings:
       url: '/publications'
     - title: 'Talks'
       url: '/presentations'
-    - title: 'Projects'
+    - title: 'Visual'
       url: '/projects/'
-    - title: 'Contact'
-      url: '/contact'
+
 
 grid_settings:
   grid_spacing: 10
