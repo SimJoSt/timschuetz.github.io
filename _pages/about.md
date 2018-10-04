@@ -1,6 +1,6 @@
 ---
 title: About
-subtitle: Contact: tschuetz@uci.edu
+subtitle: 
 description: Tim Schütz
 featured_image: /images/blog/2018/IMG_8643.jpg
 ---
