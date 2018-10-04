@@ -12,8 +12,8 @@ My research interests focus on (alternative) digital technologies and infrastruc
 
 I am a fellow of the German National Academic Foundation (SDV) and the German-American Fulbright Foundation.
 
-###### Contact
+##### Contact
 
-tschuetz@uci.edu
+[tschuetz@uci.edu](mailto:tschuetz@uci.edu)
 
 [Academia.edu](https://uci.academia.edu/TimSch%C3%BCtz)
