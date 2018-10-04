@@ -11,3 +11,9 @@ I am a trained social scientist with a BA in Media, Communication and Cultural S
 My research interests focus on (alternative) digital technologies and infrastructures, hacker politics and culture, media and migration, critical humanitarianism, institutional ethnography as well as technology in the old age.
 
 I am a fellow of the German National Academic Foundation (SDV) and the German-American Fulbright Foundation.
+
+###### Contact
+
+tschuetz@uci.edu
+
+[Academia.edu](https://uci.academia.edu/TimSch%C3%BCtz)
