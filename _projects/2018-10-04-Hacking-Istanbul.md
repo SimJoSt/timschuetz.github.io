@@ -1,6 +1,6 @@
 ---
 title: 'Hacking Istanbul (2015)'
-subtitle: 'A Hackerspace Documentary. 20', Turkey.'
+subtitle: 'A Hackerspace Documentary'
 date: 2018-10-04 00:00:00
 featured_image: '/images/visual/hacking-istanbul-6.jpg'
 ---
