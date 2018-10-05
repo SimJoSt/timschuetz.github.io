@@ -1,7 +1,7 @@
 ---
 title: 'Fall is coming'
 date: 2018-10-05 00:00:00
-featured_image: '/images/blog/2018/IMG_8641.jpg'
+featured_image: '/images/blog/2018/IMG_8662.jpg'
 excerpt: My first month in the US has almost passed, so it is time to inaugurate this blog. I kick it off easy, with some thoughts on living in Irvine and pictures from a hiking trail.
 ---
 
