@@ -1,11 +1,11 @@
 ---
 title: Presentations
-subtitle: Click on links for presentation recordings
+subtitle: 
 description: Presentations by Tim Schütz
 featured_image: /images/blog/2018/IMG_8643.jpg
 ---
 
-###### Academic
+###### Scholarly
 
 "Hacking the Shelter? Alternative mesh networks and STS research in times of forced migration." 
 How can Science and Technology Studies help to reflect on the political crisis associated with refugees and asylum seekers? (Paper workshop, CES, Coimbra, Portugal, 26-28 September 2018
