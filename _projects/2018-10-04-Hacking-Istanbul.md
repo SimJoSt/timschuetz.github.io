@@ -1,6 +1,6 @@
 ---
-title: 'Hacking Istanbul (2015)'
-subtitle: 'A Hackerspace Documentary'
+title: 'Hacking Istanbul'
+subtitle: 'A Hackerspace Documentary (2015)'
 date: 2018-10-04 00:00:00
 featured_image: '/images/visual/hacking-istanbul-6.jpg'
 ---
@@ -13,4 +13,4 @@ This student documentary film  takes its audience to an easily overlooked place 
 In the course of the film, our protagonists challenge the stereotype of hackers as criminals and data thieves. Instead, they articulate many different interpretations of what hacking as a practice can or should be. Examples include a tiny do-it-yourself detector that challenges excessive tear gas usage by Turkish police forces; learning how to program the world's tiniest computer; or simply having a place to chat about your next start up project over a tasty 'hacker soup'. All this, and much more, can be found in the Istanbul Hackerspace.
 
 ###### Background
-'Hacking Istanbul' was produced during the autumn semester 2014/15 at Bahçeşehir University and premiered on January 22nd, 2015 at the Pera Museum, Istanbul.
+'Hacking Istanbul' was produced by Konstanze Scheidt and Tim Schütz during the autumn semester 2014/15 at Bahçeşehir University and premiered on January 22nd, 2015 at the Pera Museum, Istanbul.
