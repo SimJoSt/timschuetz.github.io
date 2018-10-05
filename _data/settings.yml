@@ -19,7 +19,7 @@ menu_settings:
     - title: 'Talks'
       url: '/presentations'
     - title: 'Visual'
-      url: '/projects/'
+      url: '/visual'
 
 
 grid_settings:
