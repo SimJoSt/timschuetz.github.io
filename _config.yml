@@ -46,6 +46,7 @@ sass:
   style: compressed
 
 plugins:
+  - jekyll-feed
   - jekyll-paginate
   - jekyll-sitemap
 
